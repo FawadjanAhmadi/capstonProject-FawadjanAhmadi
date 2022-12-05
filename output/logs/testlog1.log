@@ -1,0 +1,693 @@
+2022-11-07 07:49:37,763 [main] INFO logger_File - React App is equal to React App
+2022-11-07 07:49:37,823 [main] INFO logger_File - logo is present
+2022-11-07 07:55:23,601 [main] INFO logger_File - React App is equal to React App
+2022-11-07 07:55:23,647 [main] INFO logger_File - logo is present
+2022-11-07 13:47:54,116 [main] INFO logger_File - React App is equal to React App
+2022-11-07 13:47:54,175 [main] INFO logger_File - logo is present
+2022-11-07 15:01:00,359 [main] INFO logger_File - React App is equal to React App
+2022-11-07 15:03:36,178 [main] INFO logger_File - React App is equal to React App
+2022-11-07 15:08:26,353 [main] INFO logger_File - React App is equal to React App
+2022-11-07 15:10:37,205 [main] INFO logger_File - React App is equal to React App
+2022-11-07 15:11:29,817 [main] INFO logger_File - React App is equal to React App
+2022-11-07 15:12:12,071 [main] INFO logger_File - React App is equal to React App
+2022-11-07 15:16:04,076 [main] INFO logger_File - React App is equal to React App
+2022-11-07 15:22:03,004 [main] INFO logger_File - React App is equal to React App
+2022-11-07 15:25:23,723 [main] INFO logger_File - React App is equal to React App
+2022-11-07 15:38:18,472 [main] INFO logger_File - React App is equal to React App
+2022-11-07 15:38:18,657 [main] INFO logger_File - User click on signin page
+2022-11-07 15:39:46,868 [main] INFO logger_File - React App is equal to React App
+2022-11-07 15:39:47,054 [main] INFO logger_File - User click on signin page
+2022-11-07 15:42:20,836 [main] INFO logger_File - React App is equal to React App
+2022-11-07 15:42:21,020 [main] INFO logger_File - User click on signin page
+2022-11-16 05:26:45,365 [main] INFO logger_File - React App is equal to React App
+2022-11-16 05:26:45,594 [main] INFO logger_File - User click on signin page
+2022-11-16 05:26:49,829 [main] INFO logger_File - React App is equal to React App
+2022-11-16 05:26:50,002 [main] INFO logger_File - User click on signin page
+2022-11-16 05:37:56,606 [main] INFO logger_File - React App is equal to React App
+2022-11-16 05:37:56,768 [main] INFO logger_File - User click on signin page
+2022-11-16 05:41:39,440 [main] INFO logger_File - React App is equal to React App
+2022-11-16 05:41:39,638 [main] INFO logger_File - User click on signin page
+2022-11-16 05:53:12,330 [main] INFO logger_File - React App is equal to React App
+2022-11-16 05:54:21,259 [main] INFO logger_File - React App is equal to React App
+2022-11-16 05:57:40,909 [main] INFO logger_File - React App is equal to React App
+2022-11-16 05:57:41,095 [main] INFO logger_File - User click on signin page
+2022-11-16 06:59:58,006 [main] INFO logger_File - React App is equal to React App
+2022-11-16 06:59:58,203 [main] INFO logger_File - User click on signin page
+2022-11-16 07:00:04,626 [main] INFO logger_File - React App is equal to React App
+2022-11-16 07:01:35,410 [main] INFO logger_File - React App is equal to React App
+2022-11-16 07:01:35,573 [main] INFO logger_File - User click on signin page
+2022-11-16 07:02:17,455 [main] INFO logger_File - React App is equal to React App
+2022-11-16 07:02:17,644 [main] INFO logger_File - User click on signin page
+2022-11-16 07:02:23,837 [main] INFO logger_File - React App is equal to React App
+2022-11-16 07:02:23,863 [main] INFO logger_File - user should be able to type email
+2022-11-16 07:05:03,944 [main] INFO logger_File - React App is equal to React App
+2022-11-16 07:05:04,132 [main] INFO logger_File - User click on signin page
+2022-11-16 07:05:11,330 [main] INFO logger_File - React App is equal to React App
+2022-11-16 07:48:06,710 [main] INFO logger_File - React App is equal to React App
+2022-11-16 07:48:06,881 [main] INFO logger_File - User click on signin page
+2022-11-16 07:48:13,382 [main] INFO logger_File - React App is equal to React App
+2022-11-16 07:49:14,017 [main] INFO logger_File - React App is equal to React App
+2022-11-16 07:49:14,172 [main] INFO logger_File - User click on signin page
+2022-11-16 07:49:21,612 [main] INFO logger_File - React App is equal to React App
+2022-11-16 07:53:20,869 [main] INFO logger_File - React App is equal to React App
+2022-11-16 07:53:21,028 [main] INFO logger_File - User click on signin page
+2022-11-16 07:53:28,308 [main] INFO logger_File - React App is equal to React App
+2022-11-16 07:54:53,633 [main] INFO logger_File - React App is equal to React App
+2022-11-16 07:54:53,795 [main] INFO logger_File - User click on signin page
+2022-11-16 07:59:04,434 [main] INFO logger_File - React App is equal to React App
+2022-11-16 07:59:04,687 [main] INFO logger_File - User click on signin page
+2022-11-16 07:59:13,113 [main] INFO logger_File - React App is equal to React App
+2022-11-16 08:06:40,106 [main] INFO logger_File - React App is equal to React App
+2022-11-16 08:06:40,273 [main] INFO logger_File - User click on signin page
+2022-11-16 08:06:46,610 [main] INFO logger_File - React App is equal to React App
+2022-11-16 08:09:09,632 [main] INFO logger_File - React App is equal to React App
+2022-11-16 08:09:09,816 [main] INFO logger_File - User click on signin page
+2022-11-16 08:09:16,503 [main] INFO logger_File - React App is equal to React App
+2022-11-16 08:11:24,746 [main] INFO logger_File - React App is equal to React App
+2022-11-16 08:11:24,926 [main] INFO logger_File - User click on signin page
+2022-11-16 08:11:25,102 [main] INFO logger_File - user enter emilfawad31@yahoo.com
+2022-11-16 08:26:56,600 [main] INFO logger_File - React App is equal to React App
+2022-11-16 08:26:56,755 [main] INFO logger_File - User click on signin page
+2022-11-16 08:26:56,896 [main] INFO logger_File - user enter emilfawad31@yahoo.com
+2022-11-16 08:26:57,005 [main] INFO logger_File - user enter passwordAlijan55$
+2022-11-16 12:40:23,184 [main] INFO logger_File - React App is equal to React App
+2022-11-16 12:40:23,365 [main] INFO logger_File - User click on signin page
+2022-11-16 12:40:23,547 [main] INFO logger_File - user enter emilfawad31@yahoo.com
+2022-11-16 12:40:23,672 [main] INFO logger_File - user enter passwordAlijan55$
+2022-11-16 12:43:19,643 [main] INFO logger_File - React App is equal to React App
+2022-11-16 12:43:19,826 [main] INFO logger_File - User click on signin page
+2022-11-16 12:43:19,980 [main] INFO logger_File - user enter emilfawad31@yahoo.com
+2022-11-16 12:43:20,103 [main] INFO logger_File - user enter passwordAlijan55$
+2022-11-16 12:44:22,749 [main] INFO logger_File - React App is equal to React App
+2022-11-16 12:44:22,900 [main] INFO logger_File - User click on signin page
+2022-11-16 12:44:23,056 [main] INFO logger_File - user enter emilfawad31@yahoo.com
+2022-11-16 12:44:23,175 [main] INFO logger_File - user enter passwordAlijan55$
+2022-11-16 12:50:11,515 [main] INFO logger_File - React App is equal to React App
+2022-11-16 12:50:11,672 [main] INFO logger_File - User click on signin page
+2022-11-16 12:50:11,838 [main] INFO logger_File - user enter emilfawad31@yahoo.com
+2022-11-16 12:50:11,957 [main] INFO logger_File - user enter passwordAlijan55$
+2022-11-16 12:50:37,380 [main] INFO logger_File - React App is equal to React App
+2022-11-16 12:50:37,557 [main] INFO logger_File - User click on signin page
+2022-11-16 12:50:37,704 [main] INFO logger_File - user enter emilfawad31@yahoo.com
+2022-11-16 12:50:37,820 [main] INFO logger_File - user enter passwordAlijan55$
+2022-11-17 14:06:51,632 [main] INFO logger_File - React App is equal to React App
+2022-11-17 14:06:51,816 [main] INFO logger_File - User click on Sign in option
+2022-11-17 14:06:52,114 [main] INFO logger_File - user enter emilihateteacher@tek.comuser enter passwordTek@12345
+2022-11-17 14:06:55,240 [main] INFO logger_File - User click on login button
+2022-11-17 14:08:11,691 [main] INFO logger_File - React App is equal to React App
+2022-11-17 14:08:11,871 [main] INFO logger_File - User click on Sign in option
+2022-11-17 14:08:12,168 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordAlijan55$
+2022-11-17 14:08:15,292 [main] INFO logger_File - User click on login button
+2022-11-17 14:08:18,340 [main] INFO logger_File - User should be logged in into Account
+2022-11-21 06:03:10,425 [main] INFO logger_File - React App is equal to React App
+2022-11-21 06:03:10,578 [main] INFO logger_File - User click on Sign in option
+2022-11-21 06:03:10,677 [main] INFO logger_File - User click on Create New Account button
+2022-11-21 06:06:09,710 [main] INFO logger_File - React App is equal to React App
+2022-11-21 06:06:09,841 [main] INFO logger_File - User click on Sign in option
+2022-11-21 06:06:09,930 [main] INFO logger_File - User click on Create New Account button
+2022-11-21 06:36:00,769 [main] INFO logger_File - React App is equal to React App
+2022-11-21 06:36:00,929 [main] INFO logger_File - User click on Sign in option
+2022-11-21 06:36:01,021 [main] INFO logger_File - User click on Create New Account button
+2022-11-21 06:36:01,434 [main] INFO logger_File - User fill the signUp information with below
+2022-11-21 06:36:01,516 [main] INFO logger_File - User click on SignUp button
+2022-11-21 06:36:01,918 [main] INFO logger_File - User should be logged into account page
+2022-11-21 07:06:17,668 [main] INFO logger_File - React App is equal to React App
+2022-11-21 07:06:17,914 [main] INFO logger_File - User click on Sign in option
+2022-11-21 07:06:18,243 [main] INFO logger_File - user enter emilEmailValueuser enter passwordPasswordValue
+2022-11-21 07:08:08,265 [main] INFO logger_File - React App is equal to React App
+2022-11-21 07:08:08,501 [main] INFO logger_File - User click on Sign in option
+2022-11-21 07:08:08,865 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordAlijan55$
+2022-11-21 07:08:12,023 [main] INFO logger_File - User click on login button
+2022-11-21 07:08:15,071 [main] INFO logger_File - User should be logged in into Account
+2022-11-21 07:08:15,080 [main] INFO logger_File - React App is equal to React App
+2022-11-21 07:09:03,771 [main] INFO logger_File - React App is equal to React App
+2022-11-21 07:09:03,954 [main] INFO logger_File - User click on Sign in option
+2022-11-21 07:09:04,270 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordAlijan55$
+2022-11-21 07:09:07,422 [main] INFO logger_File - User click on login button
+2022-11-21 07:09:10,468 [main] INFO logger_File - User should be logged in into Account
+2022-11-21 07:09:10,477 [main] INFO logger_File - React App is equal to React App
+2022-11-21 07:21:42,814 [main] INFO logger_File - React App is equal to React App
+2022-11-21 07:21:43,052 [main] INFO logger_File - User click on Sign in option
+2022-11-21 07:21:43,211 [main] INFO logger_File - User click on Create New Account button
+2022-11-21 07:21:43,857 [main] INFO logger_File - User fill the signUp information with below
+2022-11-21 07:21:43,971 [main] INFO logger_File - User click on SignUp button
+2022-11-21 07:22:17,161 [main] INFO logger_File - React App is equal to React App
+2022-11-21 07:22:17,390 [main] INFO logger_File - User click on Sign in option
+2022-11-21 07:22:17,545 [main] INFO logger_File - User click on Create New Account button
+2022-11-21 07:22:18,189 [main] INFO logger_File - User fill the signUp information with below
+2022-11-21 07:22:18,303 [main] INFO logger_File - User click on SignUp button
+2022-11-21 07:22:43,043 [main] INFO logger_File - React App is equal to React App
+2022-11-21 07:22:43,228 [main] INFO logger_File - User click on Sign in option
+2022-11-21 07:22:43,352 [main] INFO logger_File - User click on Create New Account button
+2022-11-21 07:22:43,875 [main] INFO logger_File - User fill the signUp information with below
+2022-11-21 07:22:43,966 [main] INFO logger_File - User click on SignUp button
+2022-11-21 07:22:44,471 [main] INFO logger_File - User should be logged into account page
+2022-11-23 16:51:21,993 [main] INFO logger_File - React App is equal to React App
+2022-11-23 16:51:22,172 [main] INFO logger_File - User click on Sign in option
+2022-11-23 16:51:22,465 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordAlijan55$
+2022-11-23 16:51:25,564 [main] INFO logger_File - User click on login button
+2022-11-23 16:51:28,598 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 16:51:28,749 [main] INFO logger_File - User click on Account option
+2022-11-23 16:51:29,004 [main] INFO logger_File - User update Name {string} and Phone {string}
+2022-11-23 16:51:29,104 [main] INFO logger_File - User click on Update button
+2022-11-23 16:51:29,130 [main] INFO logger_File - user profile information should be updated
+2022-11-23 16:56:27,026 [main] INFO logger_File - React App is equal to React App
+2022-11-23 16:56:27,203 [main] INFO logger_File - User click on Sign in option
+2022-11-23 16:56:27,482 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordAlijan55$
+2022-11-23 16:56:30,636 [main] INFO logger_File - User click on login button
+2022-11-23 16:56:33,680 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 16:56:33,858 [main] INFO logger_File - User click on Account option
+2022-11-23 16:56:34,153 [main] INFO logger_File - User update Name {string} and Phone {string}
+2022-11-23 16:56:37,298 [main] INFO logger_File - User click on Update button
+2022-11-23 16:56:40,351 [main] INFO logger_File - user profile information should be updated
+2022-11-23 16:59:05,478 [main] INFO logger_File - React App is equal to React App
+2022-11-23 16:59:05,666 [main] INFO logger_File - User click on Sign in option
+2022-11-23 16:59:05,979 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordAlijan55$
+2022-11-23 16:59:09,095 [main] INFO logger_File - User click on login button
+2022-11-23 16:59:12,144 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 16:59:12,369 [main] INFO logger_File - User click on Account option
+2022-11-23 16:59:12,736 [main] INFO logger_File - User update Name {string} and Phone {string}
+2022-11-23 16:59:15,893 [main] INFO logger_File - User click on Update button
+2022-11-23 16:59:18,938 [main] INFO logger_File - user profile information should be updated
+2022-11-23 17:02:17,986 [main] INFO logger_File - React App is equal to React App
+2022-11-23 17:02:18,143 [main] INFO logger_File - User click on Sign in option
+2022-11-23 17:02:18,417 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordAlijan55$
+2022-11-23 17:02:21,550 [main] INFO logger_File - User click on login button
+2022-11-23 17:02:24,595 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 17:02:24,817 [main] INFO logger_File - User click on Account option
+2022-11-23 17:02:25,184 [main] INFO logger_File - User update Name {string} and Phone {string}
+2022-11-23 17:02:28,342 [main] INFO logger_File - User click on Update button
+2022-11-23 17:02:31,388 [main] INFO logger_File - user profile information should be updated
+2022-11-23 17:03:36,372 [main] INFO logger_File - React App is equal to React App
+2022-11-23 17:03:36,557 [main] INFO logger_File - User click on Sign in option
+2022-11-23 17:03:36,887 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordAlijan55$
+2022-11-23 17:03:40,050 [main] INFO logger_File - User click on login button
+2022-11-23 17:03:43,089 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 17:03:43,275 [main] INFO logger_File - User click on Account option
+2022-11-23 17:03:43,562 [main] INFO logger_File - User update Name {string} and Phone {string}
+2022-11-23 17:03:46,710 [main] INFO logger_File - User click on Update button
+2022-11-23 17:03:49,750 [main] INFO logger_File - user profile information should be updated
+2022-11-23 17:05:20,147 [main] INFO logger_File - React App is equal to React App
+2022-11-23 17:05:20,339 [main] INFO logger_File - User click on Sign in option
+2022-11-23 17:05:20,653 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordAlijan55$
+2022-11-23 17:05:23,792 [main] INFO logger_File - User click on login button
+2022-11-23 17:05:26,848 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 17:05:27,090 [main] INFO logger_File - User click on Account option
+2022-11-23 17:05:27,466 [main] INFO logger_File - User update Name {string} and Phone {string}
+2022-11-23 17:05:30,620 [main] INFO logger_File - User click on Update button
+2022-11-23 17:05:33,673 [main] INFO logger_File - user profile information should be updated
+2022-11-23 17:21:28,456 [main] INFO logger_File - React App is equal to React App
+2022-11-23 17:21:28,604 [main] INFO logger_File - User click on Sign in option
+2022-11-23 17:21:28,851 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordAlijan55$
+2022-11-23 17:21:31,987 [main] INFO logger_File - User click on login button
+2022-11-23 17:21:35,028 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 17:21:35,206 [main] INFO logger_File - User click on Account option
+2022-11-23 17:21:35,646 [main] INFO logger_File - User update Name {string} and Phone {string}
+2022-11-23 17:21:38,784 [main] INFO logger_File - User click on Update button
+2022-11-23 17:21:41,836 [main] INFO logger_File - user profile information should be updated
+2022-11-23 18:50:50,441 [main] INFO logger_File - React App is equal to React App
+2022-11-23 18:50:50,607 [main] INFO logger_File - User click on Sign in option
+2022-11-23 18:50:50,884 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordAlijan55$
+2022-11-23 18:50:53,999 [main] INFO logger_File - User click on login button
+2022-11-23 18:50:57,058 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 18:50:57,307 [main] INFO logger_File - User click on Account option
+2022-11-23 18:50:57,874 [main] INFO logger_File - User update Name {string} and Phone {string}
+2022-11-23 18:51:44,555 [main] INFO logger_File - React App is equal to React App
+2022-11-23 18:51:44,748 [main] INFO logger_File - User click on Sign in option
+2022-11-23 18:51:45,070 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordAlijan55$
+2022-11-23 18:51:48,221 [main] INFO logger_File - User click on login button
+2022-11-23 18:51:51,265 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 18:51:51,450 [main] INFO logger_File - User click on Account option
+2022-11-23 18:51:51,889 [main] INFO logger_File - User update Name {string} and Phone {string}
+2022-11-23 18:53:59,592 [main] INFO logger_File - React App is equal to React App
+2022-11-23 18:53:59,786 [main] INFO logger_File - User click on Sign in option
+2022-11-23 18:54:00,110 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordAlijan55$
+2022-11-23 18:54:03,239 [main] INFO logger_File - User click on login button
+2022-11-23 18:54:06,276 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 18:54:06,458 [main] INFO logger_File - User click on Account option
+2022-11-23 18:54:06,912 [main] INFO logger_File - User update Name {string} and Phone {string}
+2022-11-23 18:54:10,050 [main] INFO logger_File - User click on Update button
+2022-11-23 18:54:13,104 [main] INFO logger_File - user profile information should be updated
+2022-11-23 19:46:37,185 [main] INFO logger_File - React App is equal to React App
+2022-11-23 19:46:37,349 [main] INFO logger_File - User click on Sign in option
+2022-11-23 19:46:37,616 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordAlijan55$
+2022-11-23 19:46:40,766 [main] INFO logger_File - User click on login button
+2022-11-23 19:48:05,950 [main] INFO logger_File - React App is equal to React App
+2022-11-23 19:48:06,140 [main] INFO logger_File - User click on Sign in option
+2022-11-23 19:48:06,476 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordFawadjan55$
+2022-11-23 19:48:09,630 [main] INFO logger_File - User click on login button
+2022-11-23 19:48:12,676 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 19:48:12,906 [main] INFO logger_File - User click on Account optionn
+2022-11-23 19:50:48,259 [main] INFO logger_File - React App is equal to React App
+2022-11-23 19:50:48,458 [main] INFO logger_File - User click on Sign in option
+2022-11-23 19:50:48,785 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordFawadjan55$
+2022-11-23 19:50:51,912 [main] INFO logger_File - User click on login button
+2022-11-23 19:50:54,959 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 19:50:55,182 [main] INFO logger_File - User click on Account optionn
+2022-11-23 19:50:55,703 [main] INFO logger_File - User enter below information |previousPassword {string} newPassword {string}confirmPassword {string}
+2022-11-23 19:50:55,813 [main] INFO logger_File - User click on Change Password button
+2022-11-23 19:50:55,844 [main] INFO logger_File - message should be displayed ‘Password Updated Successfully
+2022-11-23 21:29:26,174 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:29:26,369 [main] INFO logger_File - User click on Sign in option
+2022-11-23 21:29:26,695 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordFawadjan55$
+2022-11-23 21:29:29,818 [main] INFO logger_File - User click on login button
+2022-11-23 21:30:06,392 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:30:06,541 [main] INFO logger_File - User click on Sign in option
+2022-11-23 21:30:06,803 [main] INFO logger_File - user enter emilfawad31@yahoo.comuser enter passwordFawadjan555$
+2022-11-23 21:30:09,945 [main] INFO logger_File - User click on login button
+2022-11-23 21:32:23,073 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:32:23,252 [main] INFO logger_File - User click on Sign in option
+2022-11-23 21:32:23,538 [main] INFO logger_File - user enter emilfawad2@yahoo.comuser enter passwordFawadjan11$
+2022-11-23 21:32:26,658 [main] INFO logger_File - User click on login button
+2022-11-23 21:32:29,713 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 21:32:29,941 [main] INFO logger_File - User click on Account option
+2022-11-23 21:32:30,605 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-23 21:32:30,704 [main] INFO logger_File - User click on Add your card button
+2022-11-23 21:37:12,613 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:37:12,784 [main] INFO logger_File - User click on Sign in option
+2022-11-23 21:37:13,095 [main] INFO logger_File - user enter emilfawad2@yahoo.comuser enter passwordFawadjan11$
+2022-11-23 21:37:16,254 [main] INFO logger_File - User click on login button
+2022-11-23 21:37:19,297 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 21:37:19,473 [main] INFO logger_File - User click on Account option
+2022-11-23 21:37:20,041 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-23 21:37:20,135 [main] INFO logger_File - User click on Add your card button
+2022-11-23 21:41:14,870 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:41:15,033 [main] INFO logger_File - User click on Sign in option
+2022-11-23 21:41:15,310 [main] INFO logger_File - user enter emilfawad2@yahoo.comuser enter passwordFawadjan11$
+2022-11-23 21:41:18,431 [main] INFO logger_File - User click on login button
+2022-11-23 21:41:21,477 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 21:41:21,696 [main] INFO logger_File - User click on Account option
+2022-11-23 21:41:22,387 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-23 21:41:22,492 [main] INFO logger_File - User click on Add your card button
+2022-11-23 21:43:23,946 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:43:24,141 [main] INFO logger_File - User click on Sign in option
+2022-11-23 21:43:24,454 [main] INFO logger_File - user enter emilfawad2@yahoo.comuser enter passwordFawadjan11$
+2022-11-23 21:43:27,596 [main] INFO logger_File - User click on login button
+2022-11-23 21:43:30,652 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 21:43:30,906 [main] INFO logger_File - User click on Account option
+2022-11-23 21:43:31,689 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-23 21:43:31,798 [main] INFO logger_File - User click on Add your card button
+2022-11-23 21:44:08,336 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:44:08,512 [main] INFO logger_File - User click on Sign in option
+2022-11-23 21:44:08,783 [main] INFO logger_File - user enter emilfawad2@yahoo.comuser enter passwordFawadjan11$
+2022-11-23 21:44:11,933 [main] INFO logger_File - User click on login button
+2022-11-23 21:44:14,978 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 21:44:15,217 [main] INFO logger_File - User click on Account option
+2022-11-23 21:44:16,000 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-23 21:44:16,131 [main] INFO logger_File - User click on Add your card button
+2022-11-23 21:50:06,893 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:50:07,083 [main] INFO logger_File - User click on Sign in option
+2022-11-23 21:50:07,407 [main] INFO logger_File - user enter emilfawad2@yahoo.comuser enter passwordFawadjan11$
+2022-11-23 21:50:10,531 [main] INFO logger_File - User click on login button
+2022-11-23 21:50:13,575 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 21:50:13,763 [main] INFO logger_File - User click on Account option
+2022-11-23 21:50:14,366 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-23 21:50:14,473 [main] INFO logger_File - User click on Add your card button
+2022-11-23 21:56:11,627 [main] INFO logger_File - React App is equal to React App
+2022-11-23 21:56:11,803 [main] INFO logger_File - User click on Sign in option
+2022-11-23 21:56:12,088 [main] INFO logger_File - user enter emilfawad2@yahoo.comuser enter passwordFawadjan11$
+2022-11-23 21:56:15,237 [main] INFO logger_File - User click on login button
+2022-11-23 21:56:18,285 [main] INFO logger_File - User should be logged in into Account
+2022-11-23 21:56:18,468 [main] INFO logger_File - User click on Account optionnn
+2022-11-23 21:56:19,090 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-23 21:56:19,196 [main] INFO logger_File - User click on Add your card button
+2022-11-23 21:56:19,232 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully
+2022-11-28 05:27:42,965 [main] INFO logger_File - React App is equal to React App
+2022-11-28 05:27:43,312 [main] INFO logger_File - User click on Sign in option
+2022-11-28 05:27:43,816 [main] INFO logger_File - user enter emilfawad2@yahoo.comuser enter passwordFawadjan11$
+2022-11-28 05:27:46,999 [main] INFO logger_File - User click on login button
+2022-11-28 05:27:50,063 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 05:27:50,390 [main] INFO logger_File - User click on Account optionnn
+2022-11-28 05:27:51,527 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-28 05:27:51,678 [main] INFO logger_File - User click on Add your card button
+2022-11-28 05:27:51,728 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully
+2022-11-28 06:35:06,005 [main] INFO logger_File - React App is equal to React App
+2022-11-28 06:35:06,169 [main] INFO logger_File - User click on Sign in option
+2022-11-28 06:35:06,469 [main] INFO logger_File - user enter emilfawad2@yahoo.comuser enter passwordFawadjan11$
+2022-11-28 06:35:09,596 [main] INFO logger_File - User click on login button
+2022-11-28 06:35:12,646 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 06:35:12,908 [main] INFO logger_File - User click on Account option
+2022-11-28 06:48:20,511 [main] INFO logger_File - React App is equal to React App
+2022-11-28 06:48:20,723 [main] INFO logger_File - User click on Sign in option
+2022-11-28 06:48:21,096 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$$
+2022-11-28 06:48:24,230 [main] INFO logger_File - User click on login button
+2022-11-28 06:49:02,215 [main] INFO logger_File - React App is equal to React App
+2022-11-28 06:49:02,396 [main] INFO logger_File - User click on Sign in option
+2022-11-28 06:49:02,717 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 06:49:05,826 [main] INFO logger_File - User click on login button
+2022-11-28 06:49:08,882 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 06:49:09,146 [main] INFO logger_File - User click on Account option
+2022-11-28 06:53:07,990 [main] INFO logger_File - React App is equal to React App
+2022-11-28 06:53:08,164 [main] INFO logger_File - User click on Sign in option
+2022-11-28 06:53:08,471 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 06:53:11,593 [main] INFO logger_File - User click on login button
+2022-11-28 06:53:14,633 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 06:53:14,827 [main] INFO logger_File - User click on Account option
+2022-11-28 06:59:08,281 [main] INFO logger_File - React App is equal to React App
+2022-11-28 06:59:08,457 [main] INFO logger_File - User click on Sign in option
+2022-11-28 06:59:08,761 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 06:59:11,877 [main] INFO logger_File - User click on login button
+2022-11-28 06:59:14,923 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 06:59:15,195 [main] INFO logger_File - User click on Account optionnn
+2022-11-28 06:59:15,949 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-28 06:59:16,068 [main] INFO logger_File - User click on Add your card button
+2022-11-28 06:59:16,105 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully
+2022-11-28 06:59:23,081 [main] INFO logger_File - React App is equal to React App
+2022-11-28 06:59:23,262 [main] INFO logger_File - User click on Sign in option
+2022-11-28 06:59:23,624 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 06:59:26,750 [main] INFO logger_File - User click on login button
+2022-11-28 06:59:29,799 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 06:59:30,042 [main] INFO logger_File - User click on Account option
+2022-11-28 07:03:35,438 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:03:35,610 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:03:35,927 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:03:39,052 [main] INFO logger_File - User click on login button
+2022-11-28 07:03:42,106 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:03:42,322 [main] INFO logger_File - User click on Account option
+2022-11-28 07:07:26,048 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:07:26,230 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:07:26,517 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:07:29,637 [main] INFO logger_File - User click on login button
+2022-11-28 07:07:32,683 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:07:32,941 [main] INFO logger_File - User click on Account option
+2022-11-28 07:07:33,264 [main] INFO logger_File - User click on Edit option of card section
+2022-11-28 07:07:34,123 [main] INFO logger_File - user edit information with below data
+2022-11-28 07:07:34,239 [main] INFO logger_File - user click on Update Your Card button
+2022-11-28 07:07:38,284 [main] INFO logger_File - a message should be displayed
+2022-11-28 07:08:01,817 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:08:01,991 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:08:02,300 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:08:05,460 [main] INFO logger_File - User click on login button
+2022-11-28 07:08:08,501 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:08:08,704 [main] INFO logger_File - User click on Account option
+2022-11-28 07:08:08,969 [main] INFO logger_File - User click on Edit option of card section
+2022-11-28 07:08:09,806 [main] INFO logger_File - user edit information with below data
+2022-11-28 07:08:09,928 [main] INFO logger_File - user click on Update Your Card button
+2022-11-28 07:08:13,981 [main] INFO logger_File - a message should be displayed
+2022-11-28 07:10:13,513 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:10:13,689 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:10:13,985 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:10:17,110 [main] INFO logger_File - User click on login button
+2022-11-28 07:10:20,158 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:10:20,355 [main] INFO logger_File - User click on Account option
+2022-11-28 07:12:11,040 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:12:11,221 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:12:11,518 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:12:14,630 [main] INFO logger_File - User click on login button
+2022-11-28 07:12:17,684 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:12:17,933 [main] INFO logger_File - User click on Account option
+2022-11-28 07:14:23,877 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:14:24,049 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:14:24,347 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:14:27,440 [main] INFO logger_File - User click on login button
+2022-11-28 07:14:30,489 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:14:30,694 [main] INFO logger_File - User click on Account option
+2022-11-28 07:18:28,669 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:18:28,837 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:18:29,132 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:18:32,262 [main] INFO logger_File - User click on login button
+2022-11-28 07:18:35,309 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:18:35,562 [main] INFO logger_File - User click on Account option
+2022-11-28 07:18:44,779 [main] INFO logger_File - User click on Edit option of card section
+2022-11-28 07:20:11,820 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:20:11,992 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:20:12,296 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:20:15,418 [main] INFO logger_File - User click on login button
+2022-11-28 07:20:18,465 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:20:18,715 [main] INFO logger_File - User click on Account option
+2022-11-28 07:22:15,268 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:22:15,453 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:22:15,759 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:22:18,890 [main] INFO logger_File - User click on login button
+2022-11-28 07:22:21,935 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:22:22,142 [main] INFO logger_File - User click on Account option
+2022-11-28 07:22:22,415 [main] INFO logger_File - User click on Edit option of card section
+2022-11-28 07:22:23,273 [main] INFO logger_File - user edit information with below data
+2022-11-28 07:22:23,395 [main] INFO logger_File - user click on Update Your Card button
+2022-11-28 07:22:27,440 [main] INFO logger_File - a message should be displayed
+2022-11-28 07:23:26,218 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:23:26,395 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:23:26,698 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:23:29,820 [main] INFO logger_File - User click on login button
+2022-11-28 07:23:32,873 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:23:33,074 [main] INFO logger_File - User click on Account optionnn
+2022-11-28 07:23:33,756 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-28 07:23:33,876 [main] INFO logger_File - User click on Add your card button
+2022-11-28 07:23:33,909 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully
+2022-11-28 07:23:40,590 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:23:40,785 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:23:41,146 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:23:44,271 [main] INFO logger_File - User click on login button
+2022-11-28 07:23:47,313 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:23:47,514 [main] INFO logger_File - User click on Account option
+2022-11-28 07:23:47,757 [main] INFO logger_File - User click on Edit option of card section
+2022-11-28 07:23:48,622 [main] INFO logger_File - user edit information with below data
+2022-11-28 07:23:48,733 [main] INFO logger_File - user click on Update Your Card button
+2022-11-28 07:23:52,788 [main] INFO logger_File - a message should be displayed
+2022-11-28 07:34:43,936 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:34:44,105 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:34:44,409 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:34:47,516 [main] INFO logger_File - User click on login button
+2022-11-28 07:34:50,553 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:34:50,713 [main] INFO logger_File - User click on Account option
+2022-11-28 07:36:22,409 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:36:22,580 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:36:22,880 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:36:26,000 [main] INFO logger_File - User click on login button
+2022-11-28 07:36:29,040 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:36:29,233 [main] INFO logger_File - User click on Account option
+2022-11-28 07:36:29,512 [main] INFO logger_File - User click on Edit option of card section
+2022-11-28 07:36:30,350 [main] INFO logger_File - user edit information with below data
+2022-11-28 07:36:30,460 [main] INFO logger_File - user click on Update Your Card button
+2022-11-28 07:39:06,318 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:39:06,480 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:39:06,773 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:39:09,925 [main] INFO logger_File - User click on login button
+2022-11-28 07:39:12,966 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:39:13,156 [main] INFO logger_File - User click on Account option
+2022-11-28 07:39:13,441 [main] INFO logger_File - User click on Edit option of card section
+2022-11-28 07:39:14,307 [main] INFO logger_File - user edit information with below data
+2022-11-28 07:39:14,417 [main] INFO logger_File - user click on Update Your Card button
+2022-11-28 07:39:18,463 [main] INFO logger_File - a message should be displayed
+2022-11-28 07:47:35,995 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:47:36,178 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:47:36,502 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:47:39,629 [main] INFO logger_File - User click on login button
+2022-11-28 07:47:42,672 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:47:42,871 [main] INFO logger_File - User click on Account optionE
+2022-11-28 07:47:43,134 [main] INFO logger_File - User click on remove option of card section
+2022-11-28 07:49:20,002 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:49:20,180 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:49:20,478 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:49:23,604 [main] INFO logger_File - User click on login button
+2022-11-28 07:49:26,643 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:49:26,837 [main] INFO logger_File - User click on Account optionnn
+2022-11-28 07:49:27,496 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-28 07:49:27,607 [main] INFO logger_File - User click on Add your card button
+2022-11-28 07:49:27,641 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully
+2022-11-28 07:49:34,010 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:49:34,193 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:49:34,534 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:49:37,643 [main] INFO logger_File - User click on login button
+2022-11-28 07:49:40,691 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:49:40,887 [main] INFO logger_File - User click on Account optionE
+2022-11-28 07:49:41,139 [main] INFO logger_File - User click on remove option of card section
+2022-11-28 07:51:45,538 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:51:45,726 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:51:46,027 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:51:49,122 [main] INFO logger_File - User click on login button
+2022-11-28 07:51:52,171 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:51:52,405 [main] INFO logger_File - User click on Account optionE
+2022-11-28 07:51:52,740 [main] INFO logger_File - User click on remove option of card section
+2022-11-28 07:54:30,376 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:54:30,571 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:54:30,917 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:54:34,043 [main] INFO logger_File - User click on login button
+2022-11-28 07:54:37,085 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:54:37,277 [main] INFO logger_File - User click on Account optionnn
+2022-11-28 07:54:37,949 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-28 07:54:38,059 [main] INFO logger_File - User click on Add your card button
+2022-11-28 07:54:38,093 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully
+2022-11-28 07:54:47,479 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:54:47,665 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:54:48,026 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:54:51,149 [main] INFO logger_File - User click on login button
+2022-11-28 07:54:54,188 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:54:54,379 [main] INFO logger_File - User click on Account optionE
+2022-11-28 07:54:54,623 [main] INFO logger_File - User click on remove option of card section
+2022-11-28 07:57:31,489 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:57:31,690 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:57:32,039 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:57:35,167 [main] INFO logger_File - User click on login button
+2022-11-28 07:57:38,217 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:57:38,413 [main] INFO logger_File - User click on Account optionnn
+2022-11-28 07:57:39,078 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-28 07:57:39,194 [main] INFO logger_File - User click on Add your card button
+2022-11-28 07:57:39,230 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully
+2022-11-28 07:57:48,577 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:57:48,764 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:57:49,106 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:57:52,232 [main] INFO logger_File - User click on login button
+2022-11-28 07:57:55,280 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:57:55,486 [main] INFO logger_File - User click on Account optionE
+2022-11-28 07:58:44,825 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:58:45,035 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:58:45,410 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:58:48,540 [main] INFO logger_File - User click on login button
+2022-11-28 07:58:51,591 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:58:51,788 [main] INFO logger_File - User click on Account optionnn
+2022-11-28 07:58:52,466 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-28 07:58:52,577 [main] INFO logger_File - User click on Add your card button
+2022-11-28 07:58:52,615 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully
+2022-11-28 07:59:02,868 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:59:03,075 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:59:03,422 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 07:59:06,549 [main] INFO logger_File - User click on login button
+2022-11-28 07:59:09,589 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 07:59:09,754 [main] INFO logger_File - User click on Account optionE
+2022-11-28 07:59:09,967 [main] INFO logger_File - User click on remove option of card section
+2022-11-28 07:59:56,356 [main] INFO logger_File - React App is equal to React App
+2022-11-28 07:59:56,562 [main] INFO logger_File - User click on Sign in option
+2022-11-28 07:59:56,940 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:00:00,068 [main] INFO logger_File - User click on login button
+2022-11-28 08:00:03,105 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:00:03,325 [main] INFO logger_File - User click on Account optionnn
+2022-11-28 08:00:04,009 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-28 08:00:04,130 [main] INFO logger_File - User click on Add your card button
+2022-11-28 08:00:04,166 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully
+2022-11-28 08:00:15,944 [main] INFO logger_File - React App is equal to React App
+2022-11-28 08:00:16,110 [main] INFO logger_File - User click on Sign in option
+2022-11-28 08:00:16,444 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:00:19,555 [main] INFO logger_File - User click on login button
+2022-11-28 08:00:22,596 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:00:22,787 [main] INFO logger_File - User click on Account optionE
+2022-11-28 08:00:23,028 [main] INFO logger_File - User click on remove option of card section
+2022-11-28 08:00:56,094 [main] INFO logger_File - React App is equal to React App
+2022-11-28 08:00:56,262 [main] INFO logger_File - User click on Sign in option
+2022-11-28 08:00:56,573 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:00:59,680 [main] INFO logger_File - User click on login button
+2022-11-28 08:01:02,715 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:01:02,900 [main] INFO logger_File - User click on Account optionnn
+2022-11-28 08:01:03,590 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-28 08:01:03,700 [main] INFO logger_File - User click on Add your card button
+2022-11-28 08:01:03,737 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully
+2022-11-28 08:01:22,009 [main] INFO logger_File - React App is equal to React App
+2022-11-28 08:01:22,168 [main] INFO logger_File - User click on Sign in option
+2022-11-28 08:01:22,503 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:01:25,626 [main] INFO logger_File - User click on login button
+2022-11-28 08:01:28,674 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:01:28,882 [main] INFO logger_File - User click on Account optionE
+2022-11-28 08:01:29,140 [main] INFO logger_File - User click on remove option of card section
+2022-11-28 08:02:38,720 [main] INFO logger_File - React App is equal to React App
+2022-11-28 08:02:38,930 [main] INFO logger_File - User click on Sign in option
+2022-11-28 08:02:39,283 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:02:42,407 [main] INFO logger_File - User click on login button
+2022-11-28 08:02:45,450 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:02:45,647 [main] INFO logger_File - User click on Account optionnn
+2022-11-28 08:02:46,298 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-28 08:02:46,401 [main] INFO logger_File - User click on Add your card button
+2022-11-28 08:02:46,435 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully
+2022-11-28 08:03:00,449 [main] INFO logger_File - React App is equal to React App
+2022-11-28 08:03:00,622 [main] INFO logger_File - User click on Sign in option
+2022-11-28 08:03:00,952 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:03:04,076 [main] INFO logger_File - User click on login button
+2022-11-28 08:03:07,111 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:03:07,316 [main] INFO logger_File - User click on Account optionE
+2022-11-28 08:03:07,574 [main] INFO logger_File - User click on remove option of card section
+2022-11-28 08:04:42,593 [main] INFO logger_File - React App is equal to React App
+2022-11-28 08:04:42,765 [main] INFO logger_File - User click on Sign in option
+2022-11-28 08:04:43,060 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:04:46,186 [main] INFO logger_File - User click on login button
+2022-11-28 08:04:49,244 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:04:49,485 [main] INFO logger_File - User click on Account optionnn
+2022-11-28 08:04:50,246 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-28 08:04:50,367 [main] INFO logger_File - User click on Add your card button
+2022-11-28 08:04:50,405 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully
+2022-11-28 08:05:00,353 [main] INFO logger_File - React App is equal to React App
+2022-11-28 08:05:00,556 [main] INFO logger_File - User click on Sign in option
+2022-11-28 08:05:00,897 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:05:03,996 [main] INFO logger_File - User click on login button
+2022-11-28 08:05:07,038 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:05:07,219 [main] INFO logger_File - User click on Account optionE
+2022-11-28 08:05:07,458 [main] INFO logger_File - User click on remove option of card section
+2022-11-28 08:09:13,195 [main] INFO logger_File - React App is equal to React App
+2022-11-28 08:09:13,374 [main] INFO logger_File - User click on Sign in option
+2022-11-28 08:09:13,696 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:09:16,831 [main] INFO logger_File - User click on login button
+2022-11-28 08:09:19,872 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:09:20,073 [main] INFO logger_File - User click on Account optionnn
+2022-11-28 08:09:20,753 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-28 08:09:20,862 [main] INFO logger_File - User click on Add your card button
+2022-11-28 08:09:20,896 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully
+2022-11-28 08:09:32,560 [main] INFO logger_File - React App is equal to React App
+2022-11-28 08:09:32,761 [main] INFO logger_File - User click on Sign in option
+2022-11-28 08:09:33,110 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:09:36,223 [main] INFO logger_File - User click on login button
+2022-11-28 08:09:39,271 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:09:39,454 [main] INFO logger_File - User click on Account optionE
+2022-11-28 08:09:39,702 [main] INFO logger_File - User click on remove option of card section
+2022-11-28 08:10:03,875 [main] INFO logger_File - React App is equal to React App
+2022-11-28 08:10:04,086 [main] INFO logger_File - User click on Sign in option
+2022-11-28 08:10:04,451 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:10:07,587 [main] INFO logger_File - User click on login button
+2022-11-28 08:10:10,630 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:10:10,823 [main] INFO logger_File - User click on Account optionnn
+2022-11-28 08:10:11,498 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-28 08:10:11,604 [main] INFO logger_File - User click on Add your card button
+2022-11-28 08:10:11,637 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully
+2022-11-28 08:10:26,135 [main] INFO logger_File - React App is equal to React App
+2022-11-28 08:10:26,308 [main] INFO logger_File - User click on Sign in option
+2022-11-28 08:10:26,638 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:10:29,758 [main] INFO logger_File - User click on login button
+2022-11-28 08:10:32,797 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:10:33,002 [main] INFO logger_File - User click on Account optionE
+2022-11-28 08:10:33,231 [main] INFO logger_File - User click on remove option of card section
+2022-11-28 08:12:06,764 [main] INFO logger_File - React App is equal to React App
+2022-11-28 08:12:06,941 [main] INFO logger_File - User click on Sign in option
+2022-11-28 08:12:07,251 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:12:10,367 [main] INFO logger_File - User click on login button
+2022-11-28 08:12:13,410 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:12:13,603 [main] INFO logger_File - User click on Account optionnn
+2022-11-28 08:12:14,265 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-28 08:12:14,372 [main] INFO logger_File - User click on Add your card button
+2022-11-28 08:12:14,407 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully
+2022-11-28 08:12:30,074 [main] INFO logger_File - React App is equal to React App
+2022-11-28 08:12:30,261 [main] INFO logger_File - User click on Sign in option
+2022-11-28 08:12:30,594 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:12:33,711 [main] INFO logger_File - User click on login button
+2022-11-28 08:12:36,748 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:12:36,942 [main] INFO logger_File - User click on Account optionE
+2022-11-28 08:12:37,187 [main] INFO logger_File - User click on remove option of card section
+2022-11-28 08:14:04,924 [main] INFO logger_File - React App is equal to React App
+2022-11-28 08:14:05,105 [main] INFO logger_File - User click on Sign in option
+2022-11-28 08:14:05,400 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:14:08,524 [main] INFO logger_File - User click on login button
+2022-11-28 08:14:11,572 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:14:11,774 [main] INFO logger_File - User click on Account optionnn
+2022-11-28 08:14:12,478 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-28 08:14:12,591 [main] INFO logger_File - User click on Add your card button
+2022-11-28 08:14:12,627 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully
+2022-11-28 08:14:23,842 [main] INFO logger_File - React App is equal to React App
+2022-11-28 08:14:24,035 [main] INFO logger_File - User click on Sign in option
+2022-11-28 08:14:24,376 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:14:27,492 [main] INFO logger_File - User click on login button
+2022-11-28 08:14:30,529 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:14:30,733 [main] INFO logger_File - User click on Account optionE
+2022-11-28 08:14:30,981 [main] INFO logger_File - User click on remove option of card section
+2022-11-28 08:16:00,301 [main] INFO logger_File - React App is equal to React App
+2022-11-28 08:16:00,460 [main] INFO logger_File - User click on Sign in option
+2022-11-28 08:16:00,769 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:16:03,909 [main] INFO logger_File - User click on login button
+2022-11-28 08:16:06,952 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:16:07,148 [main] INFO logger_File - User click on Account optionnn
+2022-11-28 08:16:07,819 [main] INFO logger_File - User fill Debit or credit card information
+2022-11-28 08:16:07,937 [main] INFO logger_File - User click on Add your card button
+2022-11-28 08:16:07,973 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully
+2022-11-28 08:16:19,659 [main] INFO logger_File - React App is equal to React App
+2022-11-28 08:16:19,852 [main] INFO logger_File - User click on Sign in option
+2022-11-28 08:16:20,210 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-11-28 08:16:23,334 [main] INFO logger_File - User click on login button
+2022-11-28 08:16:26,381 [main] INFO logger_File - User should be logged in into Account
+2022-11-28 08:16:26,583 [main] INFO logger_File - User click on Account optionE
+2022-11-28 08:16:26,823 [main] INFO logger_File - User click on remove option of card section
+2022-11-28 08:16:26,861 [main] INFO logger_File - payment details should be removed
