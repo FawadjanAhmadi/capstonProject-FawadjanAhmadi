@@ -83,8 +83,8 @@ public class RetailHomePageSteps extends CommonUtility {
 		click(factory.Allhomepage().SelectQuantity2);
 		logger.info("User select quantity 2");
 	}
-	@And("User click add to Cart button")
-	public void UserclickaddtoCartbutton() {
+	@And("User click addd to Cart button")
+	public void UserclickaddtoCartbuttonn() {
 		click(factory.Allhomepage().AddToCartBttn);
 		logger.info("User click add to Cart button");
 	}
@@ -159,7 +159,7 @@ public class RetailHomePageSteps extends CommonUtility {
 		click(factory.Allhomepage().ElectronicIcon);
 		logger.info("User change the category to 'Electronics");
 	}
-	@And("User search for an item {string}")
+	@And("User search for an itemm {string}")
 	public void UsersearchforanitemApexLegends(String item) {
 		sendText(factory.Allhomepage().SearchBarr,item);
 		logger.info("User search for an item {string}");
@@ -169,7 +169,7 @@ public class RetailHomePageSteps extends CommonUtility {
 		click(factory.Allhomepage().SearchBarBttn);
 		logger.info("User click on Search icon");
 	}
-	@And("User click on item")
+	@And("User clickk on item")
 	public void Userclickonitemm() {
 		click(factory.Allhomepage().ItemSelect);
 		logger.info("User click on item");
@@ -204,8 +204,8 @@ public class RetailHomePageSteps extends CommonUtility {
 		click(factory.Allhomepage().PlacedOrderBttn);
 		logger.info("User click on Place Your Orderr");
 	}
-	@Then("a message should be displayed ‘Order Placed, Thanks’")
-	public void messageshouldbedisplayedOrderPlacedThanks(){
+	@Then("a message should be displayedd ‘Order Placed, Thanks’")
+	public void messageshouldbedisplayedOrderPlacedThankss(){
 		Assert.assertTrue(isElementDisplayed(factory.Allhomepage().OrderPlacedThank));
 		logger.info("message should be displayed ‘Order Placed, Thanks");
 	}

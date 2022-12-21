@@ -691,3 +691,69 @@
 2022-11-28 08:16:26,583 [main] INFO logger_File - User click on Account optionE
 2022-11-28 08:16:26,823 [main] INFO logger_File - User click on remove option of card section
 2022-11-28 08:16:26,861 [main] INFO logger_File - payment details should be removed
+2022-12-14 11:55:09,804 [main] INFO logger_File - React App is equal to React App
+2022-12-14 11:55:09,978 [main] INFO logger_File - User click on Sign in option
+2022-12-14 11:55:10,250 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-12-14 11:55:13,380 [main] INFO logger_File - User click on login button
+2022-12-14 11:55:16,419 [main] INFO logger_File - User should be logged in into Account
+2022-12-14 11:55:16,426 [main] INFO logger_File - React App is equal to React App
+2022-12-14 11:55:16,644 [main] INFO logger_File - User click on Orders section
+2022-12-14 11:55:16,779 [main] INFO logger_File - User click on first order in list
+2022-12-14 11:55:16,904 [main] INFO logger_File - User click on Cancel The Order button
+2022-12-14 11:55:17,126 [main] INFO logger_File - User select the cancelation Reason ‘Bought wrong item’
+2022-12-14 11:55:17,237 [main] INFO logger_File - User click on Cancel Order button
+2022-12-14 11:55:17,574 [main] INFO logger_File - cancelation message should be displayed
+2022-12-14 11:55:59,981 [main] INFO logger_File - React App is equal to React App
+2022-12-14 11:56:00,210 [main] INFO logger_File - User click on Sign in option
+2022-12-14 11:56:00,550 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-12-14 11:56:03,711 [main] INFO logger_File - User click on login button
+2022-12-14 11:56:06,751 [main] INFO logger_File - User should be logged in into Account
+2022-12-14 11:56:06,938 [main] INFO logger_File - User click on Orders section
+2022-12-14 11:56:07,063 [main] INFO logger_File - User click on first order in list
+2022-12-14 11:56:56,806 [main] INFO logger_File - React App is equal to React App
+2022-12-14 11:56:57,016 [main] INFO logger_File - User click on Sign in option
+2022-12-14 11:56:57,341 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-12-14 11:57:00,473 [main] INFO logger_File - User click on login button
+2022-12-14 11:57:03,508 [main] INFO logger_File - User should be logged in into Account
+2022-12-14 11:57:03,703 [main] INFO logger_File - User click on Orders section
+2022-12-14 11:57:03,840 [main] INFO logger_File - User click on first order in list
+2022-12-14 12:00:13,765 [main] INFO logger_File - React App is equal to React App
+2022-12-14 12:00:14,020 [main] INFO logger_File - User click on Sign in option
+2022-12-14 12:00:14,416 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-12-14 12:00:17,572 [main] INFO logger_File - User click on login button
+2022-12-14 12:00:20,626 [main] INFO logger_File - User should be logged in into Account
+2022-12-14 12:00:20,854 [main] INFO logger_File - User click on Orders section
+2022-12-14 12:00:20,976 [main] INFO logger_File - User click on first order in list
+2022-12-14 12:00:21,100 [main] INFO logger_File - User click on Review button
+2022-12-14 12:00:21,382 [main] INFO logger_File - User write Review headline
+2022-12-14 12:00:21,492 [main] INFO logger_File - User click Add your Review button
+2022-12-14 12:13:14,093 [main] INFO logger_File - React App is equal to React App
+2022-12-14 12:13:14,303 [main] INFO logger_File - User click on Sign in option
+2022-12-14 12:13:14,628 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-12-14 12:13:17,752 [main] INFO logger_File - User click on login button
+2022-12-14 12:13:20,794 [main] INFO logger_File - User should be logged in into Account
+2022-12-14 12:13:20,979 [main] INFO logger_File - User click on Orders section
+2022-12-14 12:13:21,107 [main] INFO logger_File - User click on first order in list
+2022-12-14 12:13:21,229 [main] INFO logger_File - User click on Review button
+2022-12-14 12:13:21,523 [main] INFO logger_File - User write Review headline
+2022-12-14 12:13:21,633 [main] INFO logger_File - User click Add your Review button
+2022-12-14 12:16:39,890 [main] INFO logger_File - React App is equal to React App
+2022-12-14 12:16:40,089 [main] INFO logger_File - User click on Sign in option
+2022-12-14 12:16:40,395 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-12-14 12:16:43,512 [main] INFO logger_File - User click on login button
+2022-12-14 12:16:46,552 [main] INFO logger_File - User should be logged in into Account
+2022-12-14 12:16:46,743 [main] INFO logger_File - User click on Orders section
+2022-12-14 12:16:46,868 [main] INFO logger_File - User click on first order in list
+2022-12-14 12:16:46,998 [main] INFO logger_File - User click on Review button
+2022-12-14 12:16:47,297 [main] INFO logger_File - User write Review headline
+2022-12-14 12:16:47,418 [main] INFO logger_File - User click Add your Review button
+2022-12-14 12:18:22,205 [main] INFO logger_File - React App is equal to React App
+2022-12-14 12:18:22,396 [main] INFO logger_File - User click on Sign in option
+2022-12-14 12:18:22,686 [main] INFO logger_File - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-12-14 12:18:25,807 [main] INFO logger_File - User click on login button
+2022-12-14 12:18:28,851 [main] INFO logger_File - User should be logged in into Account
+2022-12-14 12:18:29,082 [main] INFO logger_File - User click on Orders section
+2022-12-14 12:18:29,248 [main] INFO logger_File - User click on first order in list
+2022-12-14 12:18:29,404 [main] INFO logger_File - User click on Review button
+2022-12-14 12:18:29,722 [main] INFO logger_File - User write Review headline
+2022-12-14 12:18:29,842 [main] INFO logger_File - User click Add your Review button

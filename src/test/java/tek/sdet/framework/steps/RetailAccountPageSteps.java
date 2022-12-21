@@ -92,8 +92,8 @@ public void UserfillDebitorcreditcardinformation(String addcardNo, String NameOn
 	sendText(factory.ProfileInformation().EnterSecurityCode,securityCode);
 	logger.info("User fill Debit or credit card information");
 }
-@And("User click on Add your card button")
-public void UserclickonAddyourcardbutton() {
+@And("User click on Addd your card button")
+public void UserclickonAddyourcardbuttonn() {
 	click(factory.ProfileInformation().AddCardBttn);
 	logger.info("User click on Add your card button");
 }
@@ -176,7 +176,7 @@ public void UserclickonAddaddressoption() {
 	
 }
 @And("user fill new address form with below information country fullName{string}phoneNumber{string}streetAddress{string}apt {string}city {string} state zipCode{string}")
-public void userfillnewaddressformwithbelowinformation(String fullName, String phoneNo, String StreetAddress, String apt,String city, String State, String ZipCode) {
+public void userfillnewaddressformwithbelowinformationn(String fullName, String phoneNo, String StreetAddress, String apt,String city, String State, String ZipCode) {
 	
 	click(factory.ProfileInformation().AddCountryAddress);
 	sendText(factory.ProfileInformation().AddFullNameAddress, fullName );
@@ -188,8 +188,8 @@ public void userfillnewaddressformwithbelowinformation(String fullName, String p
 	sendText(factory.ProfileInformation().AddZipCodeAddress,ZipCode);
 	logger.info("user fill new address form with below information ");
 }
-@And("User click Add Your Address button")
-public void UserclickAddYourAddressbutton() {
+@And("User click Add Your Addresss button")
+public void UserclickAddYourAddressbuttonn() {
 	click(factory.ProfileInformation().AddYourAddressBttn);
 	logger.info("User click Add Your Address button");
 }
@@ -209,8 +209,8 @@ public void Userclickoneditaddressoption() {
 	click(factory.ProfileInformation().EditAddressBttn);
 	logger.info("User click on edit address option");
 }
-@And("user fill new address form with below information country fullName{string}phoneNumber{string}streetAddress{string}apt {string}city {string} state zipCode{string}")
-public void userfillnewaddressformwithbelowinformation(String Name, String PhoneNo, String StreetAddress, String Apt, String city, String ZipCode) {
+@And("user fill new address form with below information ccountry fullName{string}phoneNumber{string}streetAddress{string}apt {string}city {string} state zipCode{string}")
+public void userfillnewaddressformwithbelowinformationa(String Name, String PhoneNo, String StreetAddress, String Apt, String city, String ZipCode) {
 	click(factory.ProfileInformation().EditCountryAddress);
 	sendText(factory.ProfileInformation().EditFullNameAddress, Name);
 	sendText(factory.ProfileInformation().EditPhoneAddress, PhoneNo);

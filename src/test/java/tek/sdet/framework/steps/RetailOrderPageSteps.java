@@ -12,13 +12,13 @@ public class RetailOrderPageSteps extends CommonUtility {
 
 	POMFactory factory = new POMFactory();
 	
-	@When("User click on Orders section")
-	public void UserclickonOrderssection() {
+	@When("User click on Orderss section")
+	public void UserclickonOrdersssection() {
 		click(factory.OrderPage().OrdersBttn);
 		logger.info("User click on Orders section");
 	}
-	@And("User click on first order in list")
-	public void Userclickonfirstorderinlist() {
+	@And("User click on first order inn list")
+	public void Userclickonfirstorderinnlist() {
 		click(factory.OrderPage().FirstOrder);
 		logger.info("User click on first order in list");
 	}
@@ -43,13 +43,13 @@ public class RetailOrderPageSteps extends CommonUtility {
 		Assert.assertTrue(isElementDisplayed(factory.OrderPage().CancelationMassage));
 		logger.info("cancelation message should be displayed");
 	}
-	@When("User click on Orders section")
+	@When("User click on Orders sectionn")
 	public void UserclickonOrderssectionn() {
 		click(factory.OrderPage().OrdersBttnn);
 		logger.info("User click on Orders section");
 	}
-	@And("User click on first order in list")
-	public void Userclickonfirstorderinlistt() {
+	@And("User click onn first order in list")
+	public void Usserclickonfirstorderinlistt() {
 		click(factory.OrderPage().FirstOrderr);
 		logger.info("User click on first order in list");	
 	}
@@ -80,12 +80,12 @@ public class RetailOrderPageSteps extends CommonUtility {
 		Assert.assertTrue(isElementDisplayed(factory.OrderPage().ReturnWasSeccefullyMassage));
 		logger.info("a cancelation message should be displayed ‘Return was successful’");
 	}
-	@When("User click on Orders section")
+	@When("User click onn Orders section")
 	public void UserlickonOrderssection() {
 		click(factory.OrderPage().OrdersBttnnn);
 		logger.info("User click on Orders section");	
 	}
-	@And("User click on first order in list")
+	@And("User click on firstt order in list")
 	public void Userclickonfirstorderinlistu() {
 		click(factory.OrderPage().FirstOrderrr);
 		logger.info("User click on first order in list");

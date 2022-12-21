@@ -10,8 +10,8 @@ And User should be logged in into Account
 @CancelOrder
 Scenario: Verify User can cancel the order
 Given User is on retail website
-When User click on Orders section
-And User click on first order in list
+When User click on Orderss section
+And User click on first order inn list
 And User click on Cancel The Order button
 And User select the cancelation Reason ‘Bought wrong item’
 And User click on Cancel Order button
@@ -20,7 +20,7 @@ Then a cancelation message should be displayed ‘Your Order Has Been Cancelled�
 @ReturnTheOrder
 Scenario: Verify User can Return the order
 When User click on Orders sectionn
-And User click on first order in list
+And User click onn first order in list
 And User click on Return Items button
 And User select the Return Reason ‘Item damaged’
 And User select the drop off service ‘FedEx’
@@ -29,8 +29,8 @@ Then a cancelation message should be displayed ‘Return was successful’
 
 @WriteReview
 Scenario: Verify User can write a review on order placed
-When User click on Orders section
-And User click on first order in list
+When User click onn Orders section
+And User click on firstt order in list
 And User click on Review button
 And User write Review headline 'headline value' and 'review text'
 And User click Add your Review button
