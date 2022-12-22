@@ -106,7 +106,7 @@ public class RetailOrderPageSteps extends CommonUtility {
 		click(factory.OrderPage().AddReviwBttn);
 		logger.info("User click Add your Review button");
 	}
-	@Then("a review message should be displayed ‘Your review was added successfully’")
+	@Then("a review message should be displayed 'Your review was added successfully'")
 	public void reviewmessageshouldbedisplayed() {
 		Assert.assertTrue(isElementDisplayed(factory.OrderPage().SeccefulMassagDisplayed));
 		logger.info("review message should be displayed");

@@ -34,4 +34,4 @@ And User click on firstt order in list
 And User click on Review button
 And User write Review headline 'headline value' and 'review text'
 And User click Add your Review button
-Then a review message should be displayed ‘Your review was added successfully’
+Then a review message should be displayed 'Your review was added successfully'
