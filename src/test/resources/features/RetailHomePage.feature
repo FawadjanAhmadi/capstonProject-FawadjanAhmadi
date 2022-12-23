@@ -1,3 +1,4 @@
+@RunAll
 Feature: Retail Home Page
 
 Background:

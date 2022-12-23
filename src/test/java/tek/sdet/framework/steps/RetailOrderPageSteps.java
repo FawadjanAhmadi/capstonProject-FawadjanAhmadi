@@ -108,6 +108,7 @@ public class RetailOrderPageSteps extends CommonUtility {
 	}
 	@Then("a review message should be displayed 'Your review was added successfully'")
 	public void reviewmessageshouldbedisplayed() {
+		waitTillPresence(factory.OrderPage().SeccefulMassagDisplayed);
 		Assert.assertTrue(isElementDisplayed(factory.OrderPage().SeccefulMassagDisplayed));
 		logger.info("review message should be displayed");
 	}

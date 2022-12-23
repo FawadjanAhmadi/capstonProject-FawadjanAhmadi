@@ -1,3 +1,4 @@
+@RunAll
 Feature: RetailOrderPage
 
 Background:
@@ -27,7 +28,7 @@ And User select the drop off service ‘FedEx’
 And User click on Return Order button
 Then a cancelation message should be displayed ‘Return was successful’
 
-@WriteReview
+@WriteReview1
 Scenario: Verify User can write a review on order placed
 When User click onn Orders section
 And User click on firstt order in list

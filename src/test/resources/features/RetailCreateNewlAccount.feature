@@ -1,3 +1,4 @@
+@RunAll
 Feature: Retail Account Page
 
 Background:

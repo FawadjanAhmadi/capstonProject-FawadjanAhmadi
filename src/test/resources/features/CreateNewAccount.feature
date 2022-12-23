@@ -1,3 +1,4 @@
+@RunAll
 Feature: Create new accunt
 
 
