@@ -828,3 +828,27 @@
 2022-12-22 20:00:20,933 - logger_File -INFO - User write Review headline
 2022-12-22 20:00:21,022 - logger_File -INFO - User click Add your Review button
 2022-12-22 20:00:25,011 - logger_File -INFO - review message should be displayed
+2022-12-22 21:25:28,007 - logger_File -INFO - React App is equal to React App
+2022-12-22 21:25:28,166 - logger_File -INFO - User click on Sign in option
+2022-12-22 21:25:28,254 - logger_File -INFO - User click on Create New Account button
+2022-12-22 21:25:28,666 - logger_File -INFO - User fill the signUp information with below
+2022-12-22 21:25:28,748 - logger_File -INFO - User click on SignUp button
+2022-12-22 21:26:21,667 - logger_File -INFO - React App is equal to React App
+2022-12-22 21:26:21,696 - logger_File -INFO - logo is present
+2022-12-22 21:26:44,867 - logger_File -INFO - React App is equal to React App
+2022-12-22 21:26:44,992 - logger_File -INFO - User click on Sign in option
+2022-12-22 21:26:45,208 - logger_File -INFO - user enter emilfawadjan55@yahoo.comuser enter passwordAlijan111$
+2022-12-22 21:26:48,303 - logger_File -INFO - User click on login button
+2022-12-22 21:26:51,341 - logger_File -INFO - User should be logged in into Account
+2022-12-22 21:26:51,476 - logger_File -INFO - User click on Account option
+2022-12-22 21:26:51,770 - logger_File -INFO - User update Name {string} and Phone {string}
+2022-12-25 09:51:42,223 - logger_File -INFO - React App is equal to React App
+2022-12-25 09:51:42,381 - logger_File -INFO - User click on Sign in option
+2022-12-25 09:51:42,479 - logger_File -INFO - User click on Create New Account button
+2022-12-25 09:51:42,903 - logger_File -INFO - User fill the signUp information with below
+2022-12-25 09:51:42,986 - logger_File -INFO - User click on SignUp button
+2022-12-25 09:51:59,253 - logger_File -INFO - React App is equal to React App
+2022-12-25 09:51:59,411 - logger_File -INFO - User click on Sign in option
+2022-12-25 09:51:59,492 - logger_File -INFO - User click on Create New Account button
+2022-12-25 09:51:59,879 - logger_File -INFO - User fill the signUp information with below
+2022-12-25 09:51:59,958 - logger_File -INFO - User click on SignUp button

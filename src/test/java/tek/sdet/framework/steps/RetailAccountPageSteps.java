@@ -24,7 +24,7 @@ public class RetailAccountPageSteps extends CommonUtility {
 		sendText(factory.ProfileInformation().profilePhoneNo,phone);
 		logger.info("User update Name {string} and Phone {string}");
 try {
-	Thread.sleep(3000);
+	Thread.sleep(6000);
 } catch (InterruptedException e) {
 	// TODO Auto-generated catch block
 	e.printStackTrace();
@@ -36,7 +36,7 @@ try {
 		click(factory.ProfileInformation().updateBttn);
 		logger.info("User click on Update button");
 		try {
-			Thread.sleep(3000);
+			Thread.sleep(6000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -164,6 +164,7 @@ public void paymentdetailsshouldberemoved() {
 	Assert.assertTrue(isElementDisplayed(factory.ProfileInformation().RemoveBttn));
 	logger.info("payment details should be removed");
 }
+
 @When("User click on Account optionF")
 public void UserlickonAccountoptionF() {
 	click(factory.ProfileInformation().AccountBttn);
@@ -177,7 +178,6 @@ public void UserclickonAddaddressoption() {
 }
 @And("user fill new address form with below information country fullName{string}phoneNumber{string}streetAddress{string}apt {string}city {string} state zipCode{string}")
 public void userfillnewaddressformwithbelowinformationn(String fullName, String phoneNo, String StreetAddress, String apt,String city, String State, String ZipCode) {
-	
 	click(factory.ProfileInformation().AddCountryAddress);
 	sendText(factory.ProfileInformation().AddFullNameAddress, fullName );
 	sendText(factory.ProfileInformation().AddPhoneAddress,phoneNo);
@@ -228,6 +228,7 @@ public void UserclickupdateYourAddressbutton() {
 }
 @Then("a message should be displayed ‘Address Updated Successfully’")
 public void messageshouldbedisplayed() {
+	waitTillPresence(factory.ProfileInformation().EditSuccessfulPage);
 	Assert.assertTrue(isElementDisplayed(factory.ProfileInformation().EditSuccessfulPage));
 	logger.info("message should be displayed");
 	
