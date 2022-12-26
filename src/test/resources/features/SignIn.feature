@@ -1,3 +1,4 @@
+ @RunAll
  Feature: Sign In Feature
 
  
