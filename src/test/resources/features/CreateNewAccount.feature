@@ -1,7 +1,4 @@
-
 Feature: Create new accunt
-
-
 @CreatNewAccount
 Scenario: Verify user can create an account into Retail Website
 Given User is on retail website

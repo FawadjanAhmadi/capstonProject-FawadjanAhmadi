@@ -12,7 +12,7 @@ public class NewAccountSteps  extends CommonUtility{
 	POMFactory factory = new POMFactory();
 	
 	@When("User click on Sign in optionn")
-	public void UserclickonSigninoption() {
+	public void UsercliickonSigninoption() {
 		click(factory.createNewAccount().SigninButton);
 		logger.info("User click on Sign in option");
 	}
