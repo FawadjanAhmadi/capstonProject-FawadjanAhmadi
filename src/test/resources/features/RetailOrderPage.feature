@@ -1,4 +1,4 @@
-@RunAll
+
 Feature: RetailOrderPage
 
 Background:
