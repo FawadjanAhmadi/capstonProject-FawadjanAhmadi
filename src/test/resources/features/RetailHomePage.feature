@@ -1,21 +1,21 @@
-
+@baba
 Feature: Retail Home Page
 
 Background:
 Given User is on retail website
 When User click on Sign in option
-And User enter email 'fawadjan55@yahoo.com' and password 'Alijan111$'
+And User enter email 'fawad422222@yahoo.com' and password 'Alijan111111@'
 And User click on login button
 And User should be logged in into Account
 
-@HomePage1
+
 Scenario: Verify Shop by Department sidebar
 Given User is on retail website
 When User click on All section
 Then below options are present in Shop by Department sidebar
 |Electronics|Computers|Smart Home|Sports|Automative|
 
-@HomePage2
+
 Scenario Outline: Verify department sidebar options
 Given User is on retail website
 When User click on All section1
@@ -30,7 +30,7 @@ Examples:
 |Sports | Athletic Clothing | Exercise & Fitness|
 |Automotive| Automative Parts & Accessories| MotorCycle & Powersports|
 
-@AddItemToCart
+
 Scenario: Verify User can add an item to cart
 Given User is on retail website
 When User change the category to Smart Home
@@ -41,7 +41,7 @@ And User select quantity 2
 And User click addd to Cart button
 Then the cart icon quantity should change to 2
 
-@PlaceOrder
+
 Scenario: Verify User can place an order without Shipping address and payment Method on file
 Given User is on retail website
 When User click on Cart option
@@ -55,7 +55,7 @@ And User click on Add your card button
 And User click on Place Your Order
 Then a message should be displayed ‘Order Placed, Thanks’
 
-@PlaceOrderwithShipping
+
 Scenario: Verify User can place an order with Shipping address and payment Method on file
 Given User is on retail website
 When User change the category to 'Electronics
